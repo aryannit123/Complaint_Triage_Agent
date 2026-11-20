@@ -879,9 +879,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author
 
-**Raj Aryan**
-
-GitHub:
-https://github.com/Raj-Aryan111
